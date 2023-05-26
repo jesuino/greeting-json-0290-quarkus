@@ -3,7 +3,7 @@
   "version": "1.0",
   "specVersion": "0.8",
   "name": "Greeting workflow",
-  "description": "JSON based greeting workflow",
+  "description": "JSON based greeting workflow - 0290",
   "start": "ChooseOnLanguage",
   "functions": [
     {
